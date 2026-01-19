@@ -4,3 +4,4 @@ numpy
 flirimageextractor
 Pillow
 exifread
+python-multipart
